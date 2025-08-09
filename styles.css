@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+body{
+	margin:0;
+	padding:0;
+}
+form{
+	
+	background-color:lightpink;
+	padding:20px;
+}
+button{
+	color:blue;
+}
+input{
+	background-color:black;
+	color:white
+}
